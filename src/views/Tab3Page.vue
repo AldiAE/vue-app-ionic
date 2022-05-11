@@ -12,7 +12,7 @@
         </ion-toolbar>
       </ion-header>
       
-      <ExploreContainer name="Baian Menu Ketiga" />
+      <ExploreContainer name="BAGIAN MENU 2" />
     </ion-content>
   </ion-page>
 </template>

@@ -12,7 +12,7 @@
         </ion-toolbar>
       </ion-header>
     
-      <ExploreContainer name="Bagian Beranda" />
+      <ExploreContainer name="BAGIAN BERANDA" />
     </ion-content>
   </ion-page>
 </template>
